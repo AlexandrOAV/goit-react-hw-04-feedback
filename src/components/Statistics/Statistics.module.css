@@ -1,0 +1,11 @@
+.list{
+font-size: 16px;
+font-weight: 600;
+margin-top: 20px;
+}
+.total{
+    text-decoration: underline;
+}
+.item{
+    margin-bottom: 5px;
+}
